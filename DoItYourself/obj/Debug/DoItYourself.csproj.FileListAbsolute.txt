@@ -1,0 +1,6 @@
+C:\Users\Chu Tung Lam\RiderProjects\ConsoleApplication4\DoItYourself\obj\Debug\DoItYourself.csprojAssemblyReference.cache
+C:\Users\Chu Tung Lam\RiderProjects\ConsoleApplication4\DoItYourself\obj\Debug\DoItYourself.csproj.CoreCompileInputs.cache
+C:\Users\Chu Tung Lam\RiderProjects\ConsoleApplication4\DoItYourself\bin\Debug\DoItYourself.exe
+C:\Users\Chu Tung Lam\RiderProjects\ConsoleApplication4\DoItYourself\bin\Debug\DoItYourself.pdb
+C:\Users\Chu Tung Lam\RiderProjects\ConsoleApplication4\DoItYourself\obj\Debug\DoItYourself.exe
+C:\Users\Chu Tung Lam\RiderProjects\ConsoleApplication4\DoItYourself\obj\Debug\DoItYourself.pdb
